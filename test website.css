@@ -43,3 +43,13 @@ a{
     color:unset;
     text-decoration:none;
 }
+
+
+.content{
+    font-size: xx-small;
+    color:#8f9779;
+}
+.content-section{
+    /* font-size:x-small; */
+    font-weight: bold;
+}
