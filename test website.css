@@ -38,3 +38,8 @@ pre{
     color:#5654A2;
     font-weight: bold;
 }
+
+a{
+    color:unset;
+    text-decoration:none;
+}
