@@ -1,0 +1,67 @@
+html{
+    /* background-color: #abb1cf; */
+    color:#212732;
+
+}
+h1{
+    color:#f7cac9;
+}
+h2{
+    color:#dec2cb;
+}
+h3{
+    color:#c5b9cd;
+}
+h4{
+    color:	#abb1cf;
+}
+h5{
+    color:#92a8d1
+}
+p{
+    /* background-color: #92a8d1; */
+}
+pre{
+    white-space: pre-wrap;
+    
+}
+
+.hsmkt{
+    color:#316745;
+    font-weight: bold;
+}
+.krkr{
+    color:#E83929;
+    font-weight: bold;
+}
+.kzksm{
+    color:#5654A2;
+    font-weight: bold;
+}
+
+a{
+    color:unset;
+    text-decoration:none;
+}
+.content a{
+    text-decoration:underline;
+}
+
+
+.content{
+    font-size: xx-small;
+    color:#8f9779;
+
+}
+.content-section{
+    /* font-size:x-small; */
+    font-weight: bold;
+}
+.nav{
+    float:right;
+    background-color: #92a8d1;
+    position:fixed;
+    bottom:0;
+    right:0;
+    /* padding: .2rem; */
+}
